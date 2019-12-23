@@ -17,5 +17,5 @@
     local-dir: dist/
     target-branch: master
     commit-message: "Deploy release ${TRAVIS_TAG}"
-  on:
-    branch: develop
+    on:
+      branch: develop
